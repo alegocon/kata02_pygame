@@ -1,1 +1,4 @@
 virtual_env/
+.python-version
+.vscode/
+**__pychache__/
